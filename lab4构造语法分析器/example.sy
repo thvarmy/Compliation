@@ -1,0 +1,19 @@
+int a;
+int func(int p){
+	p = p - 1;
+	return p;
+}
+int main()
+{
+    int a;
+    float b=1.2;
+
+    a = 6/3;
+    while(a < 5)
+        return 1;  
+   
+   int c;
+   b = func(a);
+    
+    return 0;
+}
